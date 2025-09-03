@@ -1,4 +1,6 @@
 📊 Power BI Project – Café Sales & Customer Insights
+
+
 🔹 Project Overview
 This project analyzes sales and customer transactions for a local café using Microsoft Power BI.
 The goal was to design an interactive dashboard to monitor revenue, product performance, and customer trends.
